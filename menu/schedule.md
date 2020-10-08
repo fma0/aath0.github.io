@@ -7,11 +7,21 @@ Event schedule for lab meetings and other events within the lab.
 
 ## Lab meetings
 
-Lab meetings generally take place biweekly.<br>
-*(March 2020: Weekly during mandatory home office period)*
+Lab meetings take place weekly.<br>
+
 
 | Date | Presenter  | Topic |
 | --- | --- | --- |
+| December 15 | Lea | TBA |
+| December 8 | Pinar | Trial run for Zen Meeting |
+| December 1 | Sigurd | Trial run for Zen Meeting |
+| November 24 | Florence | Trial run for Zen Meeting |
+| November 17 | Ruxandra | Trial run for Zen Meeting |
+| November 10 | Pinar | TBA |
+| November 3 | Sigurd | TBA |
+| October 27 | Florence | TBA |
+| October 20 | Ruxandra | TBA |
+| October 13 | Plenum discussion / progress update |  |
 | July 13 | Ruxandra | PhD project presentation |
 | July 6 | Plenum discussion / progress update |  |
 | June 29 | Florence | TBA |
