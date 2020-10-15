@@ -20,7 +20,7 @@ Lab meetings take place weekly.<br>
 | November 10 | Pinar | TBA |
 | November 3 | Sigurd | TBA |
 | October 27 | Florence | TBA |
-| October 20 | Ruxandra | TBA |
+| October 20 | Ruxandra | Paper presentation: Topological Features of Electroencephalography are Reference-Invariant (https://www.biorxiv.org/content/10.1101/2020.09.25.311829v1.abstract) |
 | October 13 | Plenum discussion / progress update |  |
 | July 13 | Ruxandra | PhD project presentation |
 | July 6 | Plenum discussion / progress update |  |
