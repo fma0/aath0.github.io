@@ -17,7 +17,7 @@ Lab meetings take place weekly.<br>
 | February 2 | Ruxandra | TBA |
 | January 26 | Sigurd | TBA |
 | January 19 | Plenum discussion | Mentoring |
-| January 12 | Pinar | Bachelor thesis presentation |
+| January 12 | Pinar | Paper presentation: |
 | December 15 | Lea | Bachelor thesis presentation |
 | December 8 | Pinar | Trial run for Zen Meeting (Project updata) |
 | December 1 | Sigurd | Trial run for Zen Meeting (Project updata) |
