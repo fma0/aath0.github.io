@@ -25,8 +25,11 @@ Lab meetings take place weekly.<br>
 | November 17 | Ruxandra | Trial run for Zen Meeting (Project updata) |
 | November 10 | Pinar | Project update on: EEG Correlates of Outcome Representation|
 | November 3 | Qiyang | PhD project presentation |
-| October 27 | Florence | Paper presentation: Why Are Face and Object Processing Segregated in the Human Brain? Testing Computational Hypotheses with Deep Convolutional Neural Networks (https://www.researchgate.net/publication/335435825_Why_Are_Face_and_Object_Processing_Segregated_in_the_Human_Brain_Testing_Computational_Hypotheses_with_Deep_Convolutional_Neural_Networks)  |
-| October 20 | Ruxandra | Paper presentation: Topological Features of Electroencephalography are Reference-Invariant (https://www.biorxiv.org/content/10.1101/2020.09.25.311829v1.abstract) |
+| October 27 | Florence | Paper presentation: Why Are Face and Object Processing Segregated in the Human Brain? 
+Testing Computational Hypotheses with Deep Convolutional Neural Networks 
+(https://www.researchgate.net/publication/335435825) |
+| October 20 | Ruxandra | Paper presentation: Topological Features of Electroencephalography are Reference-Invariant 
+(https://www.biorxiv.org/content/10.1101/2020.09.25.311829v1.abstract) |
 | October 13 | Plenum discussion / progress update |  |
 | July 13 | Ruxandra | PhD project presentation |
 | July 6 | Plenum discussion / progress update |  |
